@@ -1,4 +1,4 @@
-class Solution(object):
+
    def roman_to_integer(s: str) -> int:
     roman_values = {
         'I': 1,
